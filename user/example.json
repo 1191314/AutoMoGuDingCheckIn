@@ -1,18 +1,18 @@
 {
   "config": {
     "user": {
-      "phone": "13187414461",
-      "password": "Lcy123456"
+      "phone": "1",
+      "password": "1"
     },
     "clockIn": {
       "mode": "daily",
       "location": {
-        "address": "云南省昆明市片区经开区阿拉街道办昌宏社区经开路3号昆明科技创新园附近",
-        "latitude": "102.779151",
-        "longitude": "24.994555",
+        "address": "1附近",
+        "latitude": "1",
+        "longitude": "1",
         "province": "云南省",
-        "city": "昆明市",
-        "area": "官渡区"
+        "city": "1",
+        "area": "1"
       },
       "imageCount": 0,
       "description": [
@@ -71,7 +71,7 @@
       {
         "type": "WxPusher",
         "enabled": true,
-        "spt": "SPT_0K5YUFXNW3z4IyZy7a397OqacC2c/ThisIsSendContent"
+        "spt": "1"
       },
       {
         "type": "SMTP",
