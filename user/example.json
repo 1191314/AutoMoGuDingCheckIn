@@ -1,35 +1,37 @@
 {
   "config": {
     "user": {
-      "phone": "123456",
-      "password": "工学云密码"
+      "phone": "13187414461",
+      "password": "Lcy123456"
     },
     "clockIn": {
       "mode": "daily",
       "location": {
-        "address": "四川省 · 成都市 · 高新区 · 在科创十一街附近",
-        "latitude": "30.559922",
-        "longitude": "104.093023",
-        "province": "四川省",
-        "city": "成都市",
-        "area": "高新区"
+        "address": "云南省昆明市片区经开区阿拉街道办昌宏社区经开路3号昆明科技创新园附近",
+        "latitude": "102.779151",
+        "longitude": "24.994555",
+        "province": "云南省",
+        "city": "昆明市",
+        "area": "官渡区"
       },
       "imageCount": 0,
       "description": [
-        "今天天气不错",
-        "今天天气很好",
-        "今天天气不太好"
+        
       ],
-      "specialClockIn": false,
+      "specialClockIn": true,
       "customDays": [
         1,
+        2,
         3,
-        5
+        4,
+        5,
+        6,
+        7
       ]
     },
     "reportSettings": {
       "daily": {
-        "enabled": false,
+        "enabled": true,
         "imageCount": 0
       },
       "weekly": {
@@ -38,7 +40,7 @@
         "submitTime": 4
       },
       "monthly": {
-        "enabled": false,
+        "enabled": true,
         "imageCount": 0,
         "submitTime": 29
       }
@@ -69,7 +71,7 @@
       {
         "type": "WxPusher",
         "enabled": true,
-        "spt": "your_spt"
+        "spt": "SPT_0K5YUFXNW3z4IyZy7a397OqacC2c/ThisIsSendContent"
       },
       {
         "type": "SMTP",
